@@ -3,8 +3,8 @@
 |--------|----------|
 | <img src="https://avatars.githubusercontent.com/u/13068859?v=4" width="32"/> | [woodser](https://github.com/woodser) |
 | <img src="https://avatars.githubusercontent.com/u/28106476?v=4" width="32"/> | [erciccione](https://github.com/erciccione) |
-| <img src="https://avatars.githubusercontent.com/u/1145361?v=4" width="32"/> | [premek](https://github.com/premek) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/1145361?v=4" width="32"/> | [premek](https://github.com/premek) |
 | <img src="https://avatars.githubusercontent.com/u/211778?v=4" width="32"/> | [napoly](https://github.com/napoly) |
 | <img src="https://avatars.githubusercontent.com/u/94508990?v=4" width="32"/> | [duriancrepe](https://github.com/duriancrepe) |
 | <img src="https://avatars.githubusercontent.com/u/84252592?v=4" width="32"/> | [l0nelyc0w](https://github.com/l0nelyc0w) |
@@ -19,3 +19,4 @@
 | <img src="https://avatars.githubusercontent.com/u/56051367?v=4" width="32"/> | [DomPro11](https://github.com/DomPro11) |
 | <img src="https://avatars.githubusercontent.com/u/170962?v=4" width="32"/> | [ripcurlx](https://github.com/ripcurlx) |
 <!-- CONTRIBUTORS END -->
+
